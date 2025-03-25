@@ -2,5 +2,10 @@
 A self-hosted service for keeping track media.
 
 ## Roadmap
--[ ] Simple functionalities
+- [ ] Basic functionalities with cli
+- [ ] Basic Website using React
+- [ ] Basic API integration with Jellyfin
+- [ ] Basic user authentication system
+
+
 
