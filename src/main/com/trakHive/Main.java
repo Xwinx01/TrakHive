@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello user, I am bored.");
 
 
+
     }
 }
