@@ -13,6 +13,7 @@ public class InputValidator {
     }
     public static boolean isValidEmail(String email) {
         //TODO
+        return false;
     }
     public static boolean isValidRating(double rating, double min, double max) {
         return rating >= min && rating <= max;
